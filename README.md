@@ -1,2 +1,2 @@
 # Slotgame
-test
+slot game test 
